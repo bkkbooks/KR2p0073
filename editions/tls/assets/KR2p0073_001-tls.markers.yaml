@@ -42,6 +42,7 @@ markers:
   - {type: punctuation, offset: 47, content: ，, id: KR2p0073_tls_001-bkkpn21}
   - {type: 'tls:seg', offset: 47, content: '', id: KR2p0073_tls_001-2a.5}
   - {type: punctuation, offset: 48, content: (, id: KR2p0073_tls_001-bkkpn22}
+  - {type: voice, offset: 48, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 50, content: ), id: KR2p0073_tls_001-bkkpn23}
   - {type: punctuation, offset: 50, content: '[', id: KR2p0073_tls_001-bkkpn24}
   - {type: punctuation, offset: 52, content: ']', id: KR2p0073_tls_001-bkkpn25}
@@ -51,6 +52,7 @@ markers:
   - {type: punctuation, offset: 61, content: ，, id: KR2p0073_tls_001-bkkpn28}
   - {type: 'tls:seg', offset: 61, content: '', id: KR2p0073_tls_001-2a.7}
   - {type: punctuation, offset: 63, content: (, id: KR2p0073_tls_001-bkkpn29}
+  - {type: voice, offset: 63, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 65, content: ), id: KR2p0073_tls_001-bkkpn30}
   - {type: punctuation, offset: 65, content: '[', id: KR2p0073_tls_001-bkkpn31}
   - {type: punctuation, offset: 67, content: ']', id: KR2p0073_tls_001-bkkpn32}
@@ -64,4 +66,4 @@ markers:
   - {type: punctuation, offset: 82, content: ”, id: KR2p0073_tls_001-bkkpn37}
   - {type: xml-element, offset: 82, content: '', id: KR2p0073_tls_001-bkkxmlele4, name: p, role: close, attrs: {source: 'SHANGBO.ZIDAOE 8.44.2 (STRIPS 5,3,2) MACHENGYUAN 8: 128, 126, 124 TR. MARCO CABOARA'}}
   back: []
-hash: sha256:e92d4cbb17e5e45c0d4b2d4420e0e5e8e8d7139b68b6dde1620b8cae591ea6f7
+hash: sha256:cd7f7220160c75d7c2bde72cfcadbd476131c04d208b48bcf1a6d00201d8280f
